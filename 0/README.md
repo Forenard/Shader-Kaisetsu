@@ -2,6 +2,7 @@
 
 ## リンク
 
+[ルーン文字：wikipedia](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%B3%E6%96%87%E5%AD%97)
 [twigl](https://twigl.app/)
 [youtube](https://youtu.be/XsAXXQ0V9kk?si=8c7K6jV-ktROr50L)
 
